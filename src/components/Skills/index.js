@@ -64,6 +64,7 @@ const Skill = styled.div`
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   border-radius: 16px;
   padding: 18px 36px;
+  margin-bottom: 30px;
   @media (max-width: 768px) {
     max-width: 400px;
     padding: 10px 36px;
@@ -124,7 +125,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 2 years.
+        <Desc>Here are some of my skills on which I have been working on for the past 1 year.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
