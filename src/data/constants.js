@@ -12,7 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1RkifIKgbtgWpA7Ym0BWdxgF7xuHEGsRI/view",
   linkedin: "https://www.linkedin.com/in/badhon-webdev/",
-  twitter: "https://twitter.com/RishavChanda",
+  twitter: "https://x.com/MohammadBa67934",
   insta: "https://www.instagram.com/mohammadssadhon/",
   facebook: "https://www.facebook.com/badhon.webdev/",
 };
@@ -372,23 +372,21 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
+    title: "Bay",
+    date: "Oct 2025 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Designed  the Tailwind css project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://i.ibb.co.com/JR2CTL7T/Capture.png",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "JavaScript",
+      "Tailwind Css",
+      "Css",
+      "Html",
     ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    category: "ui design",
+    github: "https://github.com/Md-Badhon-Sheikh/amar-bay.git",
+    webapp: "https://md-badhon-sheikh.github.io/amar-bay/",
   },
   {
     id: 2,
@@ -397,11 +395,11 @@ export const projects = [
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://i.ibb.co.com/JR2CTL7T/Capture.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/Md-Badhon-Sheikh/amar-bay.git",
+    webapp: "https://md-badhon-sheikh.github.io/amar-bay/",
     member: [
       {
         name: "Rishav Chanda",

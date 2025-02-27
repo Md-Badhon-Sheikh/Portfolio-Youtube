@@ -20,6 +20,7 @@ const Container = styled.div`
     padding: 0px 0px 60px 0px;
     @media (max-width: 960px) {
         padding: 0px;
+        align-items: center;
     }
 `;
 
@@ -53,6 +54,7 @@ margin-top: 20px;
 const Desc = styled.div`
     font-size: 18px;
     text-align: center;
+    
     max-width: 600px;
     color: ${({ theme }) => theme.text_secondary};
     @media (max-width: 768px) {
@@ -72,6 +74,7 @@ const TimelineSection = styled.div`
     gap: 12px;
     @media (max-width: 660px) {
         align-items: end;
+        
     }
 `;
 
