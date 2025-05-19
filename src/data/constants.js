@@ -331,7 +331,7 @@ export const projects = [
       "PHP",
     ],
     category: "web application",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/Md-Badhon-Sheikh/department-store.git",
     // webapp: "https://trackify.duckdns.org",
   },
   {
