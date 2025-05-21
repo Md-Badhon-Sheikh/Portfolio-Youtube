@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Md-Badhon-Sheikh",
   resume:
-    "https://drive.google.com/file/d/1OYT9L3iu69rGCvTY50ixQ0siUUzaOpf7/view?usp=drive_link",
+    "https://drive.google.com/file/d/1pQ9oWF-7pUHQ3C5ZBncujCh7YGxtb559/view",
   linkedin: "https://www.linkedin.com/in/badhon-webdev/",
   twitter: "https://x.com/MohammadBa67934",
   insta: "https://www.instagram.com/mohammadssadhon/",
